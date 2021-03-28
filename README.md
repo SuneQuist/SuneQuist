@@ -12,7 +12,7 @@
     <img src="./svgs/Youtube.svg" height="25px" />
 </a>
 
----
+<br>
 
 Hi there, my name Sune Quist and I'm currently 19 years old (yeah, I know old right). Well, anyway, I love to learn and explore different areas of programming and design. In my free time, I... study?? I study around 90-110+ hours a week been doing so for around 1-2 years now (and no I'm not tired yet, ...yet). Well, I'll stop my monologing here and tell you what I do now.
 
