@@ -3,7 +3,6 @@
     text {
             padding: .5rem;
             border-radius: 5px;
-            font-family: sans-serif;
             background-color: rgb(29, 161, 242);
         }
   </style>
