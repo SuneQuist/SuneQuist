@@ -14,7 +14,3 @@ I mainly program in Javascript and use React as my main framework. I love to do 
 <a href="https://www.behance.net/Sqv">
     <img src="./Behance.svg" width="65px" height="30px" />
 </a>
-
-<a href="https://www.youtube.com/channel/UC_CygBHRuKTpBkC6IAYBX4Q">
-    <img src="./Youtube.svg" width="65px" height="30px" />
-</a>
