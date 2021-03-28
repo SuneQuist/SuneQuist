@@ -16,7 +16,7 @@
 h1 {
 padding: 5px;
 border-radius: 5px
-background-color:rgb(29, 161, 242);
+background: #000;
 }
       </style>
       <h1>Hello, world</h1>
