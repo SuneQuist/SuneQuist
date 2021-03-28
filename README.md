@@ -7,4 +7,4 @@ I mainly program in Javascript and use React as my main framework. I love to do 
 | <p align="left"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" /><p> | I swear it's not that bad. |
 | :------------------------------------------------------------------------------------------------ | :------------------------- |
 
-![](./socials.svg)
+<!-- ![](./socials.svg) -->
