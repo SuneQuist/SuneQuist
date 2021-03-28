@@ -1,4 +1,4 @@
-### Frontend Developer that solves graphic problems and do love consumption of anime in large quantities :denmark: The #dev learning curve is superficial.
+### Frontend Developer that solves graphic problems and do love consumption of anime in large quantities Flag of Denmark The #dev learning curve is superficial.
 
 <!--
 **SuneQuist/SuneQuist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
