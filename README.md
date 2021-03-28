@@ -1,4 +1,4 @@
-### The developer learning curve is superficial.
+# The developer learning curve is superficial.
 
 <a href="https://twitter.com/NotSqv">
     <img src="./svgs/Twitter.svg" height="25px" />
