@@ -8,7 +8,7 @@ I mainly program in Javascript and use React as my main framework. I love to do 
 | :------------------------------------------------------------------------------------------------ | :------------------------- |
 
 <a href="https://twitter.com/NotSqv">
-    <img src="./Twitter.svg" width="55px" height="25px" />
+    <img src="./twitter.svg" width="55px" height="25px" />
 </a>
 
 <a href="https://www.behance.net/Sqv">
