@@ -7,14 +7,14 @@ I mainly program in Javascript and use React as my main framework. I love to do 
 | <p align="left"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" /><p> | I swear it's not that bad. |
 | :------------------------------------------------------------------------------------------------ | :------------------------- |
 
-<a href="https://twitter.com/NotSqv">
-    <img src="./twitter.svg" width="55px" height="25px" />
-</a>
-
 <a href="https://www.behance.net/Sqv">
     <img src="./Behance.svg" width="55px" height="25px" />
 </a>
 
 <a href="https://www.youtube.com/channel/UC_CygBHRuKTpBkC6IAYBX4Q">
     <img src="./Youtube.svg" width="55px" height="25px" />
+</a>
+
+<a href="https://www.youtube.com/channel/UC_CygBHRuKTpBkC6IAYBX4Q">
+    <img src="./Twitter.svg" width="55px" height="25px" />
 </a>
