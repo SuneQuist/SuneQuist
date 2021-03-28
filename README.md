@@ -19,4 +19,7 @@ Hi there, my name Sune Quist and I'm currently 19 years old (yeah, I know old ri
 
 I mainly program in Javascript and use React as my main framework. I love to do different weird challenges that I set myself, and I hate doing portfolio work, that's why you'll only find guides here either that or their "school" related projects.
 
+<br />
+<br />
+
 <p align="left"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" /><p>
