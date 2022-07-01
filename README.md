@@ -1,23 +1,25 @@
 # The developer learning curve is superficial.
 
-<a href="https://twitter.com/NotSqv">
+<a style="font-family: sans-serif" href="https://twitter.com/NotSqv">
     <img src="./svgs/Twitter.svg" height="25px" />
 </a>
 
-<a href="https://www.behance.net/Sqv">
+<a style="font-family: sans-serif" href="https://www.behance.net/Sqv">
     <img src="./svgs/Behance.svg" height="25px" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC_CygBHRuKTpBkC6IAYBX4Q">
+<a style="font-family: sans-serif" href="https://www.youtube.com/channel/UC_CygBHRuKTpBkC6IAYBX4Q">
     <img src="./svgs/Youtube.svg" height="25px" />
 </a>
 
 <br />
 <br />
 
-Hi there, my name Sune Quist and I'm currently 19 years old (yeah, I know old right). Well, anyway, I love to learn and explore different areas of programming and design. In my free time, I... study?? I study around 90-110+ hours a week been doing so for around 1-2 years now (and no I'm not tired yet, ...yet). Well, I'll stop my monologing here and tell you what I do now.
+Hello there.
 
-I mainly program in Javascript and use React as my main framework. I love to do different weird challenges that I set myself, and I hate doing portfolio work, that's why you'll only find guides here either that or their "school" related projects.
+My name is Sune Quist, and I am currently 20 years old (yes I know old haha). Anyway, I mainly program in JavaScript, but I love learning new languages often and have a ton of files that I never uploaded to Github. Hence why you barely see any contributions from my Github, I also worked using GitLab.
+
+I often upload my progress on Twitter though, and you can feel free to go ahead and check that out as well. I have also thought about writing some books on different topics.
 
 <br />
 <br />
