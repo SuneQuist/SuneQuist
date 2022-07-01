@@ -1,14 +1,14 @@
 # This is never going to end is it...
 
-<a href="https://twitter.com/NotSqv">
+<a href="https://twitter.com/sunesookhan" target="_blank">
     <img src="./svgs/Twitter.svg" height="25px" />
 </a>
 
-<a href="https://www.behance.net/Sqv">
+<a href="https://www.behance.net/Sqv" target="_blank">
     <img src="./svgs/Behance.svg" height="25px" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC_CygBHRuKTpBkC6IAYBX4Q">
+<a href="https://www.youtube.com/channel/UC_CygBHRuKTpBkC6IAYBX4Q" target="_blank">
     <img src="./svgs/Youtube.svg" height="25px" />
 </a>
 
